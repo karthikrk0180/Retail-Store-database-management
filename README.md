@@ -7,3 +7,4 @@ A course project on Database Management System consisting of several tables and 
 3.SQL Concepts
 4.Basic PL/SQL Concepts
 5.Use of Oracle database 
+
