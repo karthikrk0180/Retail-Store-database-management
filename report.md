@@ -47,5 +47,9 @@ Supplier|supplies|Orders	|M:N|
 ## Schema Diagram
 ![image](https://user-images.githubusercontent.com/126350150/233131958-3062fb7c-2eb2-469c-9b1c-37cdc9eef96f.png)
 
+## ER Diagram
+![image](https://user-images.githubusercontent.com/126350150/233132588-b624b8bb-22f6-49ad-a1c4-924158d30052.png)
+
+
 
 
