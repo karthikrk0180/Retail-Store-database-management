@@ -6,8 +6,8 @@ A course project on Database Management System consisting of several tables and 
 <li>Relational Database design model</li>
 <li>Query Processing & Query Optimization</li>
 <li>SQL Concepts</li>
-<li>4.Basic PL/SQL Concepts</li>
-<li>5.Use of Oracle database </li>
+<li>Basic PL/SQL Concepts</li>
+<li>Use of Oracle database </li>
 </ul>
 
 ## Problem Description:   
